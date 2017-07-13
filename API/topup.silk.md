@@ -39,4 +39,4 @@ Include the `terminalid`, `amount`, `cardid` and `topupsting`
 	}
 }
 ```
-[Back] (../index.md)
+[Back](../index.md)

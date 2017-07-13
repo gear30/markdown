@@ -29,4 +29,4 @@ Include the `terminalid`, `temperature`, `timestamp` and `request`
 	"message": "success"
 }
 ```
-[Back] (../index.md)
+[Back](../index.md)

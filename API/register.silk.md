@@ -34,4 +34,4 @@ Include the `terminalid` and `otp`
 	}
 }
 ```
-[Back] (../index.md)
+[Back](../index.md)

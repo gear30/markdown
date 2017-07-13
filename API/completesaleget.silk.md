@@ -38,4 +38,4 @@ Include the `terminalid` and `request`
 	}]
 }
 ```
-[Back] (../index.md)
+[Back](../index.md)

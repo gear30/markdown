@@ -38,4 +38,4 @@ Include the `terminalid`, `amount` and `cardid`
 	}
 }
 ```
-[Back] (../index.md)
+[Back](../index.md)

@@ -27,4 +27,4 @@ Include the `terminalid` and `otp`
 	"message": "success"
 }
 ```
-[Back] (../index.md)
+[Back](../index.md)

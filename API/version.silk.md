@@ -19,4 +19,4 @@ Check server status
 	"buildtime" : "12/5/2017"
 }
 ```
-[Back] (../index.md)
+[Back](../index.md)

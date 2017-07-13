@@ -32,4 +32,4 @@ Include the `terminalid`, `reference`, `amount`, `banknote`, `change`, `timestam
 	"message": "success"
 }
 ```
-[Back] (../index.md)
+[Back](../index.md)

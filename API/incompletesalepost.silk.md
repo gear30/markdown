@@ -42,4 +42,4 @@ Include the `terminalid`, `form` and `request`
 	}]
 }
 ```
-[Back] (../index.md)
+[Back](../index.md)

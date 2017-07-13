@@ -31,4 +31,4 @@ Include the `total`, `payment`, `change`, `type`, `sale_pay` and `sale_subs`
   "message":"success"
 }
 ```
-[Back] (../index.md)
+[Back](../index.md)
